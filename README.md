@@ -4,3 +4,9 @@ So I don't waste time and pollute history on other projects
 ## GPG
 Let's see if I can add GPG signing.
 
+It worked after I changed my global email address (I think)
+So now when commiting I'll add -S
+```
+$ git commit -S -am "message"
+```
+
