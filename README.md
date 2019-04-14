@@ -10,3 +10,4 @@ So now when commiting I'll add -S
 $ git commit -S -am "message"
 ```
 
+I am adding a new computer, with new ssh keys and copied gpg, see if it works
