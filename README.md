@@ -1,3 +1,8 @@
+# Anyone wants to fork it and add their name here?
+
+Jan :tada:
+
+
 # learningGitHub
 So I don't waste time and pollute history on other projects
 
@@ -11,3 +16,5 @@ $ git commit -S -am "message"
 ```
 
 I am adding a new computer, with new ssh keys and copied gpg, see if it works
+
+
