@@ -1,8 +1,10 @@
 # Anyone wants to fork it and add their name here?
 
-Jan :tada:
+Jan :tada: (Jack added extra :tada:)
 
 Jack was here 2k19! Hello Jan, have a 🌳 for your allotment!
+Jack came back: do you maybe want to suggest an amend to this one? Also changed one of your lines to see what happens.
+
 
 
 # learningGitHub
