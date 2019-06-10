@@ -4,6 +4,7 @@ Jan :tada:
 
 Jack was here 2k19! Hello Jan, have a 🌳 for your allotment!
 
+Gigi [@gminova](https://github.com/gminova) says 'Hi!':)
 
 # learningGitHub
 So I don't waste time and pollute history on other projects
