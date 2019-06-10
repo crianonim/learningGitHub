@@ -1,9 +1,9 @@
 # Anyone wants to fork it and add their name here?
 
-Jan :tada: (Jack added extra :tada:)
+Jan :tada:  ☕ (decaf)
 
 Jack was here 2k19! Hello Jan, have a 🌳 for your allotment!
-Jack came back: do you maybe want to suggest an amend to this one? Also changed one of your lines to see what happens.
+Jack came back: I know the previous pull was unacceptable, however, please accept an extra decaf coffee change instead. Or suggest an amend.
 
 
 
