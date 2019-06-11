@@ -8,6 +8,8 @@ Jack came back: I know the previous pull was unacceptable, however, please accep
 
 Gigi [@gminova](https://github.com/gminova) says 'Hi!':)
 
+Hello guys! :) - Francesca
+
 Victor says hi 👋
 
 # learningGitHub
@@ -23,9 +25,3 @@ $ git commit -S -am "message"
 ```
 
 I am adding a new computer, with new ssh keys and copied gpg, see if it works
-
-
-Hello guys! :) - Francesca
-
-
-
