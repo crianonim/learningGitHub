@@ -8,6 +8,8 @@ Jack came back: I know the previous pull was unacceptable, however, please accep
 
 Gigi [@gminova](https://github.com/gminova) says 'Hi!':)
 
+Victor says hi 👋
+
 # learningGitHub
 So I don't waste time and pollute history on other projects
 
