@@ -12,3 +12,5 @@ Gigi [@gminova](https://github.com/gminova) says 'Hi!':)
 Hello guys! :) - Francesca
 
 Victor says hi 👋
+
+Leonie says 'Guten Tag, guten Tag!' 
