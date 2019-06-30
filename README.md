@@ -13,4 +13,6 @@ Hello guys! :) - Francesca
 
 Victor says hi 👋
 
-Leonie says 'Guten Tag, guten Tag!' 
+Leonie says 'Guten Tag, guten Tag!'
+
+Reuben is excited for our journey at FAC!
